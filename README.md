@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Khasiane
 - 👀 I’m interested in ...information technology
-- 🌱 I’m currently learning ...Software Engineering
+- 🌱 I’m currently learning ...Technical Support Engineer
 - 💞️ I’m looking to collaborate on ... any project
-- 📫 How to reach me ...@khasiane
+- 📫 How to reach me ...
 
 <!---
 Khasiane/Khasiane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
